@@ -1,6 +1,5 @@
 #*****************************************************************************************************************************
 #Name:Shashi shekhar
-
 #Email id: meshashi29@gmail.com,sshekhar@scu.edu
 #AIM: This terraform script creates  AWS ELB  , unibuntu 14.04 ,Key pair, virtual instance and  AWS scaling  group 
 #Here all VM instances  belongs to free tier. Name of vm instances are mentioned in variable.tf file
